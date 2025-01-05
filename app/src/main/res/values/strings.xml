@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodProject</string>
+    <string name="intro_title">"Let\'s Find <font color="#F3C024"> the Best &amp; Healthy</font> Grocery"</string>
+    <string name="intro_login">Already have an account?</string>
+    <string name="loginHint">login</string>
+    <string name="passwordHint">Enter your password</string>
+    <string name="profil">profil</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+</resources>
